@@ -18,7 +18,7 @@ I deciced to transport the player onto the deck of a 17th century ship. Unlike t
 
 The game is built on top of the [GameStart engine](https://www.youtube.com/@GameStart3D/videos) and entirely implemented in [Squirrel](https://github.com/albertodemichelis/squirrel).
 
-- :tiger: [The original devlog thread](https://forums.tigsource.com/index.php?topic=5130.80) on the TigSource forum
+- :tiger: [The original devlog thread](https://forums.tigsource.com/index.php?topic=5130.0) on the TigSource forum
 - :vhs: [A Video capture](https://www.youtube.com/watch?v=BxLvjwyroVo) of the gameplay
 
 ## Credits
