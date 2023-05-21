@@ -1,0 +1,37 @@
+<NML=1.0>
+<Environment=
+	<Name="New Project">
+	<ScriptUnit=
+		<Script="data/scripts/main.nut">
+		<Class="MainProject">
+	>
+	<Scenes=
+		<Scene=
+			<URI="data/boat.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/title.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/splash.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/blank_ui.nms">
+			<Type="2d">
+		>
+		<Scene=
+			<URI="data/level_intro.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/language.nms">
+			<Type="3d">
+		>
+	>
+	<Folders>
+	<Include>
+	<SearchPaths>
+>

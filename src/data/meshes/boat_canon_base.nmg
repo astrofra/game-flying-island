@@ -1,0 +1,260 @@
+<NML=1.0>
+<Geometry=
+	<RenderWord=
+		<Lit>
+	>
+	<Vertex=
+		<Count=40>
+		<Data==489:480@
+Ñh½êÃ10êÁÔŒêÑh½jÃ10êÁÔŒêÑh½êaDVi,«jÑh½jaDVi,«jÑh½êWDVé-«êÑh½j
+WDVé-«êÑh½êÅ10jÁÔŒjÑh½jÅ10jÁÔŒjöÉøj;%¶éì¸AêõÉøj2%¶é4±ÄêõÉøj½¿|i
+˜ë£êõÉøjóGÐiÛ/éöÉøj,3çÚ®Dè÷Éøjœý4ê$®Dè÷Éøj!3Šêì/éöÉøj›Êkêë£ê
+d9Çj4%¶é4±Äêc9Çj¹¿|i–ë£êd9ÇjñGÐiÙ/ée9Çjl3çÊ®Dèe9Çjžý4ê®Dèe9Çj
+"3Šêê/éd9ÇjœÊkê›ë£êd9Çj=}%¶éë¸Aê®"Èê;%¶éì¸Aê¯"Èê2%¶é4±Äê¯"Èê½¿|
+i˜ë£ê¯"ÈêóGÐiÛ/é®"Èê,3çÚ®Dè­"Èêœý4ê$®Dè­"Èê!3Šêì/é®"Èê›Êkêë£
+ê@³úê4%¶é4±ÄêA³úê¹¿|i–ë£ê@³úêñGÐiÙ/é?³úêl3çÊ®Dè?³úêžý4ê®Dè?³ú
+ê"3Šêê/é@³úêœÊkê›ë£ê@³úê=}%¶éë¸Aê>
+	>
+	<Polygon=
+		<Count=68>
+		<BindingCount=204>
+		<Data==1386:1360@
+-***-***,***********-*******+***-*******-***1***/***.*******-***
+.***0***1*******-***/***+***********-*******.***/*******-***1***
+-***+*******-***+***/***1*******-***0***,***-*******-***-***1***
+0*******-***.*******,*******-***,***0***.*******-***3***4***2***
+****-***4***5***2*******-***5***6***2*******-***6***7***2*******
+-***7***8***2*******-***8***9***2*******-***9***3***2*******-***
+:***;***3*******-***;***4***3*******-***;***<***4*******-***<***
+5***4*******-***<***=}***5*******-***=}***6***5*******-***=}***>
+***6*******-***>***7***6*******-***>***?***7*******-***?***8***7
+*******-***?***@***8*******-***@***9***8*******-***@***:***9****
+***-***:***3***9*******-***;***:***A*******-***<***;***A*******-
+***=}***<***A*******-***>***=}***A*******-***?***>***A*******-**
+*@***?***A*******-***:***@***A*******-***C***D***B*******-***D**
+*E***B*******-***E***F***B*******-***F***G***B*******-***G***H**
+*B*******-***H***I***B*******-***I***C***B*******-***J***K***C**
+*****-***K***D***C*******-***K***L***D*******-***L***E***D******
+*-***L***M***E*******-***M***F***E*******-***M***N***F*******-**
+*N***G***F*******-***N***O***G*******-***O***H***G*******-***O**
+*P***H*******-***P***I***H*******-***P***J***I*******-***J***C**
+*I*******-***K***J***Q*******-***L***K***Q*******-***M***L***Q**
+*****-***N***M***Q*******-***O***N***Q*******-***P***O***Q******
+*-***J***P***Q*******>
+	>
+	<PNormal=
+		<Count=68>
+		<Data==207:204@
+*³U*³U*¡ÿ*¡ÿ*ÿ³*ÿ³¨**©***U¡*U¡«**«**¨**¨**©**©**©**©**©***a¸*a¸*
+¥*¥*y*y**©**¨*Çy*Çy*¯*¯*ó¸*ó¸«**«**«**«**«**«**«**¨**¨**©*
+*©**©**©**©***a¸*a¸*¥*¥*y*y**©**¨*Çy*Çy*¯*¯*ó¸*ó¸«**«**«**
+«**«**«**«**>
+	>
+	<VNormal=
+		<Count=204>
+		<Data==621:612@
+*³U*³U*³U*³U*³U*³U*¡ÿ*¡ÿ*¡ÿ*¡ÿ*¡ÿ*¡ÿ*ÿ³*ÿ³*ÿ³*ÿ³*ÿ³*ÿ³©**©**©**©
+**©**©***U¡*U¡*U¡*U¡*U¡*U¡«**«**«**«**«**«**©**©**©**©**©**©**©*
+*©**©**©**©**©**©**©**©**©**©**©**©**©**©****«*Û**«*Û*Û**«*Û
+*¥F*Û*¥F*¥F*Û*¥F*aœ*¥F*aœ*aœ*¥F*aœ*óœ*aœ*óœ*óœ*aœ*óœ*¯F*óœ*¯F*
+¯F*óœ*¯F*ÇÛ*¯F*ÇÛ*ÇÛ*¯F*ÇÛ**«*ÇÛ**«**«*ÇÛ«**«**«**«**«**«**«**«*
+*«**«**«**«**«**«**«**«**«**«**«**«**«**©**©**©**©**©**©**©**©**
+©**©**©**©**©**©**©**©**©**©**©**©**©****«*Û**«*Û*Û**«*Û*¥F*
+Û*¥F*¥F*Û*¥F*aœ*¥F*aœ*aœ*¥F*aœ*óœ*aœ*óœ*óœ*aœ*óœ*¯F*óœ*¯F*¯F*ó
+œ*¯F*ÇÛ*¯F*ÇÛ*ÇÛ*¯F*ÇÛ**«*ÇÛ**«**«*ÇÛ«**«**«**«**«**«**«**«**«**
+«**«**«**«**«**«**«**«**«**«**«**«**>
+	>
+	<UV=
+		<Count=1>
+		<Data==1680:1632@
+ŠNîfd;Qilþhd;QilþhË£ilþhË£iŠNîfË£iŠNîfd;QiŠNîfúKKiŠNîfü¾Æh
+lþhü¾Æhlþhü¾ÆhlþhúKKiŠNîfúKKiAå=JhJÿîgAå=JhÝ;g³Ô~iÝ;g³Ô~iÝ
+;g³Ô~iJÿîgAå=JhJÿîg1siâäh>£ri²þ¼hAå=Jh¶hAå=Jh¶hÛh~÷h1s
+iâähAå=JhòObhAå=Jhšzg³Ô~išzg³Ô~išzg³Ô~iòObhAå=JhòObhùsriˆÝÈh
+§siÂéh~M=Mh öh~M=Mh öhAå=Jh»ÕhùsriˆÝÈhÈ­4iØth¥Ii@§hÇ­4i¹
+!2i¥Ii@§h×ÓNiœ8iÇ­4i¹!2i×ÓNiœ8iêP@iúKKiÇ­4i¹!2iêP@iúKKiê'hù
+KKiÇ­4i¹!2iê'hùKKiAå=Jhš8iÇ­4i¹!2iAå=Jhš8iò@h@§hÇ­4i¹!2iò@
+h@§hÈ­4iØthÇ­4i¹!2ið/i(Yi*xDi(Yið/iÈóji*xDi(Yi*xDiÈójið/
+iÈóji»½Vi„h nmi„h»½Viw€2i nmi„h nmiw€2i»½Viw€2i nmi„hÿ 
+i„h nmiw€2iÿ i„hÿ iw€2i nmiw€2if=J›iJÿîgÃ„iJÿîgg=J›iªJ!f
+Ã„iJÿîgÃ„iŠJ!fg=J›iªJ!fÀTiÐJXi~ófiÐJXiÀTip,ii~ófiÐJXiófip,ii
+ÀTip,ii~ófiÐJXic¤}iÐJXiófip,iic¤}iÐJXid¤}ip,iiófip,iiAå=Jh(Y
+ið/i(YiAå=JhÈójið/i(Yið/iÈójiAå=JhÈójiÃ«'gJ…Óg*}hŠL!gŠÕ*h:
+ihGšXgºJ'gÃ«'gJ…ÓgŠÕ*h:ihŠNîfØƒhGšXgºJ'gŠÕ*h:ih’ßÑg&ßºhŠNîf
+ØƒhŠÕ*h:ih3ZhH¹h’ßÑg&ßºhŠÕ*h:ih´Ö“hzh3ZhH¹hŠÕ*h:ih*}hŠ
+L!g´Ö“hzhŠÕ*h:ih1çniSpijßƒi‡/{i/çni‹è‹ijßƒi‡/{i@=Mˆilà‘i/çni
+‹è‹i@=Mˆilà‘iSŠziË£i/çni‹è‹iSŠziË£iCciÊ£i/çni‹è‹iCciÊ£iÀT
+ijà‘i/çni‹è‹iÀTijà‘iøîYi†/{i/çni‹è‹iøîYi†/{i1çniSpi/çni‹è‹iõµk
+iYj:i.®€iXj:iõµkiùKKi.®€iXj:i.®€iùKKiõµkiùKKiƒ—yiÒÝÔhgHiÔÝÔhƒ—y
+i öhgHiÔÝÔhgHi öhƒ—yi öhgHiÔÝÔhÇz¢iÔÝÔhgHi öhÇz¢iÔÝÔhÇz¢
+i öhgHi öhÐkÙh&ßºhBßªh&ßºhÒkÙh¢‡hBßªh&ßºhBßªh¢‡hÒkÙh¢‡hîz
+i¾LŒhMNi¾LŒhîzi²þ¼hMNi¾LŒhNNi²þ¼hîzi²þ¼hMNi¾LŒh2ÿ£iºLŒhNN
+i²þ¼h2ÿ£iºLŒh3ÿ£i°þ¼hNNi²þ¼h»½ViYj:iõµkiYj:i»½ViúKKiõµkiYj:iõµk
+iùKKi»½ViúKKiÆ3i2ãpiR<Ii›zij‘4iQ´‹iþphß[{iÆ3i2ãpij‘4iQ´‹iAå=J
+h…#‘iþphß[{ij‘4iQ´‹iV(hË£iAå=Jh…#‘ij‘4iQ´‹i”¢@i^¨£iV(hË£ij‘
+4iQ´‹iµÑNib4‘i”¢@i^¨£ij‘4iQ´‹iR<Ii›ziµÑNib4‘ij‘4iQ´‹i>
+	>
+	<Materials=
+		<Material=
+			<Id="wood_boat_canon_base">
+			<Specular=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Glossiness=0.100000>
+			<AlphaThreshold=0.100000>
+			<PhysicMaterial=
+				<StaticFriction=0.750000>
+				<DynamicFriction=0.500000>
+				<Restitution=0.100000>
+			>
+			<RenderMask=
+				<Smoothing>
+			>
+			<ShaderMap=
+				<Pos=
+					<X=0.000000>
+					<Y=0.000000>
+				>
+				<Map=
+					<Entry=
+						<Type="Geometry Normal">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param>
+					>
+					<Entry=
+						<Type="Multiply">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Param=0>
+						>
+					>
+					<Entry=
+						<Type="Sampler 2D">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<WrapU=1>
+							<WrapV=1>
+						>
+					>
+					<Entry=
+						<Type="Texture">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Texture="data/maps/boat_canon_base_color.jpg">
+						>
+					>
+					<Entry=
+						<Type="Geometry UV">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Channel=0>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Param=1>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Param=4>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Pos=
+							<X=0.000000>
+							<Y=0.000000>
+						>
+						<Param=
+							<Param=2>
+						>
+					>
+				>
+				<Normal=
+					<Block=
+						<Index=0>
+					>
+				>
+				<Diffuse=
+					<Block=
+						<Index=1>
+						<Input=
+							<Block=
+								<Index=2>
+							>
+							<Block=
+								<Index=3>
+								<Input=
+									<Block=
+										<Index=4>
+									>
+									<Block=
+										<Index=5>
+									>
+								>
+							>
+						>
+					>
+				>
+				<Specular=
+					<Block=
+						<Index=6>
+					>
+				>
+				<Glossiness=
+					<Block=
+						<Index=7>
+					>
+				>
+				<Constant=
+					<Block=
+						<Index=8>
+					>
+				>
+			>
+			<TextureStage=
+				<Index=0>
+				<Active>
+				<Texture="data/maps/boat_canon_base_color.jpg">
+				<UV=0>
+				<Channel="Light">
+			>
+		>
+	>
+>
